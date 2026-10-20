@@ -32,6 +32,7 @@ By playing
 -   Plague Inc: Evolved
 -   REPO
 -   Class of '09
+
 on this website, you are commiting an act of PIRACY which is a serious crime, if caught, you will be subjected to act C-46, Section 74(2) in Canada which states "Every one who commits piracy while in or out of Canada is guilty of an indictable offence and liable to imprisonment for life.", although in reality, the punishment has a large range from absolutely jackshi to tarnishing your legal reputation, making it harder to get certain oppurtunities based on how much the oppurtunity-givers gaf. I accept my risks as I personally believe that MFs should not be mad about this while having millions to billions of dollars😭 but the main question is,
 ## Do you?
 
