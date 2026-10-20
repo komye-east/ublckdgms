@@ -9,10 +9,6 @@ This is supposed to be a collection of web games that only need a web server or 
 3. change index.html & the flash games titles to your preferences, MAKE SURE TO CREDIT ME & KEEP THE PRE-EXISTING CREDITS
 4. your new unblocked website will be at `your github username`.github.io/ublckdgms/
 
-## Codeword use
-
-just go to https://omaribnzakaria.github.io/ublckdgms/birdseed/`code`
-
 ## Add your own games
 1. Fork the repo
 2. add your game in its own folder in your fork

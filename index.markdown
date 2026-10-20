@@ -5,287 +5,36 @@
 layout: default
 ---
 
-[Home](../)
-
-PRESS THE GITHUB LINK AT THE TOP FOR GUIDES FOR THIS WEBSITE N STUFF
-
-<a href="https://discord.gg/aUpeqRQs8u">
-<img src="discord.png" alt="OUR OFFICIAL DISCORD" width="100">
-
-OUR OFFICIAL DISCORD
-<a>
-
-
-## THE HOLY GRAIL OF Ye(Formely Known as Kanye Omari West) LEAKS HAS BEEN REVEALED AFTER A COLLABORATIVE PURCHASE OF $23,000
-
-## LADIES & GENTLEMEN, I INTRODUCE YOU THE GRAND PIECE` OF WATCH THE THRONE: LIVING. SO. ITALIAN
-
-<embed type="text/html" src="./musicplayer.html" width="720" height="540">
-
-Ye please don't take this stuff down, I spent 4 days working on my own music player for this, alteast let me have this up for a week. XOXO
-
-## [Deltarune: Chapters 1-5](../ublckdgms2/deltarune/index.html) YES CHAPTER 5 IS HERE!!!!!!!!!
-
-## Minecraft (Eaglercraft)
-
-js versions are more stable but are WAY more laggy & should only be used as a fallback
-
-WASM is WAY faster but is subject to more crashes
-
-the u number infront of the versions is the eagler version which is seperate from the minecraft version its based off of & just specifies the update to that specific eagler version
-
-ex. 1.8.8 u53 is the 53rd update of eaglercraft 1.8.8
-
-THIS DOES NOT MEAN YOUR GETTING ANYTHING NEW, THIS IS MOSTLY JUST OPTIMIZATION UPDATES, BUG FIXES & EAGLER SPECIFIC FEATURES(so the higher the u number, the more stable it is)
-
-- Downloads to play offline (& also access ws connections)
-  - 1.8.8 u53
-    - <a href="./eaglercraft/download/1.8.8/js/index.html" download>JS</a>
-    - <a href="./eaglercraft/download/1.8.8/wasm/index.html" download>WASM</a>
-  - 1.12.2 u3
-    - <a href="./eaglercraft/download/1.12.2/js/index.html" download>JS</a>
-    - <a href="./eaglercraft/download/1.12.2/wasm/index.html" download>WASM</a>
-  - <a href="./eaglercraft/download/1.16.5/wasm/index.html" download>1.16.5 u3 WASM</a>
-  - <a href="./eaglercraft/download/1.21.11/wasm/index.html" download>1.21.11 u0 WASM</a>
-- Web for playing directly in-website (only allows wss connections)
-  - 1.8.8 u53
-    - [JS](/eaglercraft/download/1.8.8/js/index.html)
-    - [WASM](/eaglercraft/download/1.8.8/wasm/index.html)
-  - 1.12.2 u3
-    - [JS](/eaglercraft/web/1.12.2/js/index.html)
-    - [WASM](/eaglercraft/web/1.12.2/wasm/index.html)
-  - [1.16.5 u3 WASM](/eaglercraft/web/1.16.5/wasm/index.html)
-  - [1.21.11 u0 WASM](/eaglercraft/download/1.21.11/wasm/index.html)
-
-## [Grand Theft Auto: Vice City](/gtavc/index.html)
-- [Offline Download for local hosting & also hosting for yourself as I am hosting the actual game on vercel so you can't just copy this](https://pub-2d16fbb9a4014be1abf81679ee7e6b24.r2.dev/offlinegtavc.7z), this is a 7z file so you have to extract it using 7zip, this only runs if you add a slash at the end of the url & also if you use a web server such as npx serve
-
-## [Half Life](../ublckdgms2/half-life/index.html)
-
-## [Hollow Knight](../ublckdgms2/hollow-knight-opt/index.html)
-
-## [Undertale](/undertale/index.html)
-
-## [Geometry Dash](/gdwebp/index.html)
-
-## [Stardew Valley](../ublckdgms2/stardew-valley/index.html)
-
-## [SUPER LIQUID SOCCER](./liquidsoccer/index.html)
-
-## [UNICYCLE HERO](./unicycle/index.html)
-
-## [Territorial.io](/fxclient/index.html)
-
-## [Cookie Clicker](/cookieclicker/index.html)
-
-## Plants Vs Zombies
-- [2012 Chinese version(Obviously have to translate it(use your browsers built in translate webpage tool))](../ublckdgms3/plantsvszombiesjs/source12/Index.htm)
-- [Objectively better modded version that I stole so ignore the warning](../ublckdgms3/plantsvszombiesjs/modstol/index.html):trollface:
-- [TWO](../ublckdgms3/plantsvszombiesjs/2/index.html)
-
-## [EL BALATRO!](/balatrojs/index.html)
-- [Balatro.rar](/balatro.rar)(this is a .rar file, similar to a .zip file, you need to unzip it into your LOCAL files(NOT YOUR GOOGLE DRIVE) & run index.html)
-
-## [Bitlife](/bitlife/index.html)
-
-## Emulated Games (MIGHT HAVE TO MANUALLY MAP CONTROLS)
-To map controls, hover your mouse on the bottom on the screen and press control settings
-- Nintendo 64
-    - [Super Mario 64](../ublckdgms2/emu/n64/mario64/index.html)
-    - [Legend of Zelda: Ocarina of Time](../ublckdgms2/emu/n64/zeldaocarin/index.html)
-    - [Mario Kart 64](../ublckdgms2/emu/n64/mariokart64/index.html)
-    - [Banjo-Kazooie](../ublckdgms2/emu/n64/banjokazooie/index.html)
-    - [Donkey Kong 64](../ublckdgms2/emu/n64/donkeykong/index.html)
-    - [Mischief Makers](../ublckdgms2/emu/n64/mischief-makers/index.html)
-    - [Perfect Dark](../ublckdgms2/emu/n64/perfectdark/index.html)
-    - [N64 controller diagram](https://upload.wikimedia.org/wikipedia/commons/9/90/N64-controller-annotated.jpg)
-- Nintendo DS
-  - Ace Attorney
-    - [Phoenix Wright](../ublckdgms2/emu/ds/aceattorney/phoenixwright/index.html)
-      - [Justice for All](../ublckdgms2/emu/ds/aceattorney/phoenixwright/jfa/index.html)
-      - [Trials & Tribulations](../ublckdgms2/emu/ds/aceattorney/phoenixwright/tnt/index.html)
-    - [Apollo Justice](../ublckdgms2/emu/ds/aceattorney/apollojustice/index.html)
-    - Investigations
-      - [Miles Edgeworth](../ublckdgms2/emu/ds/aceattorney/investigations/me/index.html)
-  - Pokemon
-    - [Platinum](../ublckdgms2/emu/ds/pokemon/platinum/index.html)
-- Game Boy: Advance
-  - Pokemon
-    - [Ruby](../ublckdgms2/emu/gba/pokemon/ruby/index.html)
-    - [Emerald](../ublckdgms2/emu/gba/pokemon/emerald/index.html)
-  - [Gameboy Advance Controller diagram](https://upload.wikimedia.org/wikipedia/commons/4/4c/GBA_Controls_detailed.png)
-- Super Nintendo Entertainment System
-  - Donkey Kong
-    - Country
-      - [2: Diddies Quest](../ublckdgms2/emu/snes/donkey-kong/country/2/index.html)
-- Playstation 1
-  - [APE ESCAPE!!!](../ublckdgms3/emu/ps1/apescape/index.html)
-  - [Metal Gear Solid](../ublckdgms2/emu/ps1/metalgearsolid/index.html)
-  - [The Need for Speed](../nfswp/index.html)
-    - [2](../nfswp/2/index.html)
-    - [3](../nfswp/3/index.html)
-  - Final Fantasy
-    - [7](../finalfantawp/7/index.html)
-    - [8](../finalfantawp/8/index.html)
-    - [9](../finalfantawp/9/index.html)
-
-## [Cuphead](../ublckdgms2/cuphead/index.html)
-
-## [Five Nights At Epsteins](/fnae/index.html)
-
-## Five Nights at Freddy's
-- [1](../ublckdgms3/fnaf/1/index.html)
-- [2](../ublckdgms3/fnaf/2/index.html)
-- [3](../ublckdgms3/fnaf/3/index.html)
-- [4](../ublckdgms3/fnaf/4/index.html)
-- [Pizzeria Simulator](../ublckdgms3/fnaf/ps/index.html)
-- [Sister Location](../ublckdgms3/fnaf/sl/index.html)
-- [Ultimate Custom Night](../ublckdgms3/fnaf/ucn/index.html)
-- [World](../ublckdgms3/fnaf/w/index.html)
-
-## Kindergarten
-- [1](/kindergarten/1/index.html)
-- [2](/kindergarten/2/index.html)
-
-## [Pizza Tower](/pizza-tower/index.html)
-
-## [ULTRAKILL](/ultrakill/index.html)
-
-## [Doki Doki Literature Club](/ddlc/index.html)
-
-## [Baldi's Basics Remastered](/baldis-basics/index.html)
-
-## [Granny](/granny/index.html)
-
-## [Ragdoll Hit](/ragdollhit/index.html)
-
-## [OMORI](../ublckdgms3/omori/index.html)
-
-## [Undertale Yellow](/undertale-yellow/index.html)
-
-## [Buckshot Roulette](/buckshot-roulette/index.html)
-
-## [That's not my Neighbor](/thats-not-my-neighbor/index.html)
-
-## [Sheepy](/sheepy/index.html)
-
-## [Escape Road](/escape-road/index.html)
-- [2](/escape-road/2/index.html)
-- [City](/escape-road/city/index.html)
-  - [2](/escape-road/city/2/index.html)
-
-## Fears to Fathom
-- [Part 1: Home Alone](../ublckdgms2//fears-to-fathom/home-alone/index.html)
-
-## [Plague Inc: Evolved](/plagueinc-ev/index.html)
-
-## [Raldi's Crackhouse!](../ublckdgms2//raldi/index.html)
-
-## [Angry Birds!](../ublckdgms2/angry-birds/index.html)
-- [2](../ublckdgms2/angry-birds/2/index.html)
-
-## [False Frights](/false-frights/index.html)
-
-## [Funny Shooter](/funny-shooter/index.html)
-
-## [Moto X3M](/moto-x3m/index.html)
-- [2](/moto-x3m/2/index.html)
-- Seasonal
-  - [Winter](/moto-x3m/seasonal/winter/index.html)
-  - [Spooky](/moto-x3m/seasonal/spooky/index.html)
-  - [Pool Party](/moto-x3m/seasonal/pool_party/index.html)
-
-## VEX
-- [3](/vex/3/index.html)
-- [4](/vex/4/index.html)
-- [5](/vex/5/index.html)
-- [6](/vex/6/index.html)
-- [7](/vex/7/index.html)
-
-## [REPO](/repo/index.html)
-
-## [Polytrack Modded](/polytrack/index.html)
-
-## [Paper.io 2](/paperio2/index.html)
-
-## [Bad Piggies +Cheats](../ublckdgms2/baddie-piggies/index.html)
-
-Class of '09 codeword: c009
-
-## Flash games
-- Papa's
-  - [Pizzeria](/flashgames/papas/pizzeria/index.html)
-  - [Burgeria](/flashgames/papas/burgeria/index.html)
-  - [Scooperia](/flashgames/papas/scooperia/index.html)
-- [Water Ragdoll 2](/flashgames/waterragdoll/index.html)
-- [Happy Wheels](/flashgames/happywheels/index.html)
-- [Bloons TD 5](/flashgames/bloonstd5/index.html)
-- [Binding of Isaac: Wrath of the Lamb](/flashgames/bindingofisaac/index.html)
-- [Bloxorz](/flashgames/bloxorz/index.html)
-- [World's Hardest Game](/flashgames/whg/index.html)
-- [SCOOBY DOO CREEPY RUN](/flashgames/scoobyrun/index.html)
-
-## [X-CLIENT BLOOKET HACK 2](/xclient.txt) (put this in your terminal(Ctrl+Shift+I then go to debug or smh) while playing blooket)
-## [1V1.LOL](/1v1lol/index.html)
-
-Currently transitioning more
-
-contact me, tell in the discord server or open an issue if you have a suggestion
-
-Credits:
-
-
-PVZ: LONELYSTAR
-
-Joker Poker Balabuilder: w0w53r
-
-Webatro: imisaacwu
-
-All emulated games: EmulatorJS team
-
-Cuphead: [woahhcrackers](https://github.com/woahhcrackers)
-
-Hollowknight: [hummingbird-9](https://github.com/hummingbird-9)
-
-Undertale: [burntpopcorn180](https://github.com/burnedpopcorn/) for porting & [bandit968thegamer-ops](https://github.com/bandit968thegamer-ops) for conserving
-
-Deltarune: [ByAlvaro19](https://github.com/ByAlvaro19)
-
-Kindergarten: genizy
-
-Pizza Tower: burntpopcorn180
-
-ULTRAKILL: [98corbins](https://portsby98corbin.neocities.org/) for porting & [genizy](https://github.com/genizy) for preserving
-
-FNAF: IRV77
-
-DDLC: [allclientry](https://github.com/allclientry)
-
-Granny: conserved by MapL
-
-Baldis Basics: Conserved by MapL
-
-OMORI: genizy
-
-Undertale Yellow: burntpopcorn180 for porting & genizy for conserving
-
-Sheepy: [Ading2210](https://github.com/ading2210)
-
-Class of 09: ME, ALL ME, OMAR IBN ZAKARIA(For porting ofc)
-
-Geometry Dash: Web Dashers team, incl genizy
-
-Plague Inc: [Reeyuki](https://github.com/Reeyuki)
-
-Little Alchemy 2: [tw31122007](https://github.com/tw31122007)
-
-Stardew Valley: [Cirsius](https://github.com/degloved-net)
-
-Fears to Fathom: [slqntdevss](https://github.com/slqntdevss)
-
-Raldis Crackhouse: Port by me, decompiled by IvanLom2014 ig?
-
-PVZ 2 gardenless by Gaozih
-
-GTA Vice City by the REVCDOS
-
+# ATTENTION
+
+## PIRACY IS A CRIME
+
+By playing
+-   Deltarune Chapters 3-5
+-   Minecraft
+-   GTA Vice City
+-   GTA 3
+-   Half Life
+-   Hollow Knight
+-   Undertale
+-   ULTRAKILL
+-   Stardew Valley
+-   Balatro
+-   Any of the Emulated Games
+-   Cuphead
+-   FNAF 1-4
+    -   Pizzeria Simulator 
+    -   Sister Location   
+-   Kindegarten
+-   Pizza Tower
+-   OMORI
+-   Buckshot Roulette
+-   Plague Inc: Evolved
+-   REPO
+-   Class of '09
+on this website, you are commiting an act of PIRACY which is a serious crime, if caught, you will be subjected to act C-46, Section 74(2) in Canada which states "Every one who commits piracy while in or out of Canada is guilty of an indictable offence and liable to imprisonment for life.", although in reality, the punishment has a large range from absolutely jackshi to tarnishing your legal reputation, making it harder to get certain oppurtunities based on how much the oppurtunity-givers gaf. I accept my risks as I personally believe that MFs should not be mad about this while having millions to billions of dollars😭 but the main question is,
+## Do you?
+
+[I accept the risk](./gamelist.markdown)            [I do not](./gamelistgood.markdown)
+
+PS. NO SNITCHIN BRO, LET A HOMIE HAVE FUN, IF HE OR SHE FAILS SCHOOL, IT'S HIS OR HER FAULT. BUT IF YOU REALLYYY WANT THAT PERSON TO STOP PLAYING, JUST TELL THEM TO STOP RATHER THEN RUINING EVERYONE ELSES FUN
