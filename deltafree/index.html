@@ -504,6 +504,8 @@
     };
 
     function injectAndLoad(htmlText) {
+        const baseUrl = new URL(chapterPath, window.location.href).href;
+        const base = `<base href="${baseUrl}">`;
         const receiver = `<script>
             const r = () => { 
                 window.dispatchEvent(new Event('resize'));
@@ -517,7 +519,7 @@
                 window.dispatchEvent(k); document.dispatchEvent(k);
             });
         <\/script>`;
-        const blob = new Blob([htmlText.replace('<head>', '<head>' + receiver)], { type: 'text/html' });
+        const blob = new Blob([htmlText.replace('<head>', '<head>' + base + receiver)], { type: 'text/html' });
         frame.src = URL.createObjectURL(blob);
         document.getElementById('loader-screen').style.display = 'none';
     }
